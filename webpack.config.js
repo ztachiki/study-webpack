@@ -1,4 +1,6 @@
 module.exports = {
+    mode: "development",
+
     entry: `./src/main.ts`,
 
     output: {
@@ -26,5 +28,6 @@ module.exports = {
        open: true
    },
 
-   mode: "development"
+   target: ["web", "es5"]
+
 };
