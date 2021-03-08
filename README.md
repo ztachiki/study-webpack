@@ -1,5 +1,5 @@
-# study-webpack
-webpack学習レポジトリ
+# study-webpack-typescript
+webpackとtypescriptの学習レポジトリ
 
 # 参考資料
 - https://ics.media/entry/12140/
